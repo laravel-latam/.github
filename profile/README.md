@@ -14,14 +14,6 @@ Laravel es un marco de aplicación web con una sintaxis expresiva y elegante. Cr
 
 Laravel es accesible, potente y proporciona las herramientas necesarias para aplicaciones grandes y sólidas.
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
 ## Aprendiendo Laravel
 
 Laravel tiene la [documentación](https://laravel.com/docs) y la biblioteca de tutoriales en video más extensa y completa de todos los marcos de aplicaciones web modernos, por lo que es muy fácil comenzar a usar el marco.
